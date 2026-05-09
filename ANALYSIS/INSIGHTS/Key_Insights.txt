@@ -1,0 +1,56 @@
+KEY INSIGHTS SUMMARY
+======================================================================
+Last Updated: March 20, 2026 at 18:46:02
+
+1. CRITICAL CANCELLATION ISSUE
+   - Overall Cancellation Rate: 20.23%
+   - Annual Revenue Loss: ~$40.7M
+   - Highest Risk Channel: Travel Agent (27.93% cancellation)
+   - Action: Implement deposit-based incentive system
+
+2. CHANNEL PERFORMANCE DISPARITY
+   Mobile App: 21.56% cancellation
+   Travel Agent: 27.93% cancellation
+   Web: 17.64% cancellation
+   - Action: Optimize high-cancellation channels
+
+3. ROOM TYPE INSIGHTS
+   Standard: 23.30% cancellation
+   Suite: 17.98% cancellation
+   Deluxe: 16.02% cancellation
+   - Action: Upgrade room offerings or pricing strategy
+
+4. PRICE SENSITIVITY
+   - Budget Bookings (<$10k): 24.59% cancellation
+   - Premium Bookings (>$30k): 18.92% cancellation
+   - Finding: Lower prices correlate with higher cancellations
+   - Action: Dynamic pricing model, tiered non-refundable rates
+
+5. CUSTOMER LOYALTY
+   - Unique Customers: 499
+   - Repeat Rate: 100% (exceptional!)
+   - Average Bookings/Customer: 60.1
+   - Opportunity: Loyalty program could prevent cancellations
+
+6. MONTHLY PATTERNS
+   - Highest Volume Month: 4
+   - Highest Cancellation Month: 7 (30.33%)
+   - Action: Pre-emptive retention campaigns in peak cancellation months
+
+7. PROFITABILITY SUMMARY
+   - Total Revenue: $885,144,555
+   - Total Profit: $208,899,732
+   - Profit Margin: 23.60%
+   - Stability: Consistent margins across channels
+
+RECOMMENDATIONS PRIORITY
+1. Deposit system (Quick win: 2-4% cancellation reduction)
+2. Platform improvements (High impact: reduce cancellations)
+3. Loyalty program launch (Long-term: customer retention)
+4. Dynamic pricing implementation (Revenue optimization)
+5. AI cancellation prediction (Future: predictive optimization)
+
+EXPECTED REVENUE RECOVERY
+- Conservative (2% reduction): +$17.7M annually
+- Moderate (5% reduction): +$44.3M annually
+- Aggressive (8% reduction): +$70.8M annually
