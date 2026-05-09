@@ -1,6 +1,6 @@
 KEY INSIGHTS SUMMARY
 ======================================================================
-Last Updated: May 09, 2026 at 12:21:22
+Last Updated: May 09, 2026 at 12:27:38
 
 1. CRITICAL CANCELLATION ISSUE
    - Overall Cancellation Rate: 20.23%
